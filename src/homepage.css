@@ -1,0 +1,53 @@
+/* src/App.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url('c:\Users\Admin\Downloads\thought-catalog-kkysaOcVE94-unsplash.jpg');
+    background-color: rgb(127, 123, 116);
+
+  }
+  
+  .app {
+    text-align: center;
+  }
+  
+  .navigation {
+    padding: 1em;
+  }
+  
+  .navigation ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(251, 251, 251);
+  }
+  
+  .navigation li {
+    margin-right: 1em;
+  }
+  
+  .navigation a {
+    text-decoration: none;
+  }
+  
+  .navigation a:hover {
+    text-decoration: underline;
+  }
+  
+  .homepage {
+    padding: 2em;
+  }
+  
+  .homepage h1 {
+    color: black;
+  }
+  
+  .homepage p {
+    font-size: 1.2em;
+    color: rgb(185, 184, 184);
+  }
+  
